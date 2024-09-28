@@ -29,10 +29,10 @@ Por exemplo, para o projeto Decorator:
     
 Compile o projeto:
 
-    ```bash
-    dotnet build
-    
+    ```
+      dotnet build
+
 Execute o projeto:
 
-```bash
+```
 dotnet run
