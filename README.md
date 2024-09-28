@@ -1,6 +1,6 @@
 # Projetos de Padrões de Design em C#
 
-Este repositório contém exemplos de implementação de padrões de design em C#.
+Este repositório contém exemplos de implementação de padrões de design estruturais em C#.
 
 ## Requisitos
 
@@ -11,7 +11,10 @@ Este repositório contém exemplos de implementação de padrões de design em C
 - `Decorator`: Exemplo do padrão Decorator.
 - `Facade`: Exemplo do padrão Facade.
 - `Adapter`: Exemplo do padrão Adapter.
-- Outros projetos conforme necessário.
+- `Bridge`: Exemplo do padrão Bridge.
+- `Proxy`: Exemplo do padrão Proxy.
+- `Flyweight`: Exemplo do padrão Flyweight.
+- `Composite`: Exemplo do padrão Composite.
 
 ## Instruções para Rodar os Projetos
 
