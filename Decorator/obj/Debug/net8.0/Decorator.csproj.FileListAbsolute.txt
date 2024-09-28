@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\bin\Debug\net8.0\Decorator.exe
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\bin\Debug\net8.0\Decorator.deps.json
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\bin\Debug\net8.0\Decorator.runtimeconfig.json
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\bin\Debug\net8.0\Decorator.dll
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\bin\Debug\net8.0\Decorator.pdb
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\obj\Debug\net8.0\Decorator.dll
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\obj\Debug\net8.0\refint\Decorator.dll
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\obj\Debug\net8.0\Decorator.pdb
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\obj\Debug\net8.0\Decorator.genruntimeconfig.cache
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\obj\Debug\net8.0\ref\Decorator.dll
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\obj\Debug\net8.0\Decorator.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Dell\Desktop\padroesEstruturaisCSharp\PadroesCsharp\Decorator\obj\Debug\net8.0\Decorator.csproj.Up2Date
