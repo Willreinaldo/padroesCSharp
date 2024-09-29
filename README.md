@@ -1,4 +1,4 @@
-# Projetos de Padrões de Design em C#
+#  Padrões de Projeto Estruturais em C#
 
 Este repositório contém exemplos de implementação de padrões de design estruturais em C#.
 
@@ -6,7 +6,7 @@ Este repositório contém exemplos de implementação de padrões de design estr
 
 - [.NET SDK](https://dotnet.microsoft.com/download) (versão 6.0 ou superior)
 
-# Padrões de Design em C#
+# Padrões de Projeto Estruturais em C#
 
 Este repositório contém exemplos de padrões de design estruturais implementados em C#. Cada padrão é demonstrado através de um exemplo prático, mostrando sua aplicação no desenvolvimento de software.
 
